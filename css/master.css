@@ -1,0 +1,98 @@
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(fonts/Product_Sans_Regular.ttf);
+}
+@font-face {
+    font-family: ProductSansBold;
+    src: url(fonts/Product_Sans_Bold.ttf);
+}
+
+
+#main {
+    max-width: 1200px !important;
+}
+
+#main p {
+  font-size: 20px;
+}
+
+#main li {
+  font-size: 18px !important;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.content h2 {
+  margin-left: -40px !important;
+}
+
+.sidebar-nav li {
+  font-family: ProductSansBold;
+
+}
+
+.cover {
+  background: linear-gradient(to left bottom, hsl(220, 100%, 85%) 0%,hsl(120, 100%, 85%) 100%) !important;
+}
+
+.titleStyled {
+  font-family: ProductSansRegular;
+  font-size: 25px !important;
+  text-align: center;
+  color: #42c983;
+  margin-top: 80px !important;
+}
+
+.firstP {
+  margin-top: 30px !important;
+}
+
+img[alt=icon] {
+  display: block;
+  width: 64px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: -50px;
+}
+
+img[alt="intro"] {
+  display: block;
+  width: 64px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+img[alt="first"] {
+  display: block;
+  width: 64px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px !important;
+  margin-bottom: -50px;
+}
+
+img[alt="schema"] {
+  display: inline-block;
+  width: 25vw;
+  margin-left: 4vw;
+  margin-right: 0vw;
+  margin-top: 50px !important;
+  margin-bottom: 80px;
+}
+
+img[alt="example"] {
+  display: block;
+  width: 25vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px !important;
+  margin-bottom: 80px;
+}
+
+img[alt="large"] {
+  width: 30vw !important;
+}
