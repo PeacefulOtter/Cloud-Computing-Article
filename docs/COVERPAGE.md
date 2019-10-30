@@ -7,5 +7,5 @@
 - Article ISN
 - Présentation sur site web
 
-[GitHub](https://github.com/PeacefulOtter/)
+[GitHub](https://github.com/PeacefulOtter/Cloud-Computing-Article)
 [Introduction](/docs/INTRODUCTION.md)
