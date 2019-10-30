@@ -7,6 +7,6 @@ Le cloud en chiffre c'est :
   - **95%** des entreprises ont migré certaines de leurs applications dans le cloud
   - **75%** des entreprises favorisent le cloud hybride pour des raisons économiques
 
-il est évident que le Cloud Computing a et est entrain d'**exploser**. Le phénomêne du Big Data et de l'intelligence artificielle ne fait que renforcer cette **croissance exponentielle** du cloud. Il est certains que d'ici quelques années, c'est **100%** des entreprises qui adopteront un environnement cloud, c'est devenu une technologie **incontournable**.
+il est évident que le Cloud Computing est entrain d'**exploser**. Le phénomêne du Big Data et de l'intelligence artificielle ne fait que renforcer cette **croissance exponentielle** du cloud. Il est certains que d'ici quelques années, c'est **100%** des entreprises qui adopteront un environnement cloud, c'est devenu une technologie **incontournable**.
 
 ![example large](../img/lecloud.jpg)
